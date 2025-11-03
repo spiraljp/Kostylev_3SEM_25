@@ -1,5 +1,6 @@
 from operator import itemgetter
 
+#Вариант Г 17
 class Dirigent:
     """Дирижёр"""
     def __init__(self, id, fio, salary, orchestra_id):
