@@ -1,0 +1,15 @@
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/bin/Debug/net8.0/Lab1_BiquadraticEquation
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/bin/Debug/net8.0/Lab1_BiquadraticEquation.deps.json
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/bin/Debug/net8.0/Lab1_BiquadraticEquation.runtimeconfig.json
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/bin/Debug/net8.0/Lab1_BiquadraticEquation.dll
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/bin/Debug/net8.0/Lab1_BiquadraticEquation.pdb
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/Lab1_BiquadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/Lab1_BiquadraticEquation.AssemblyInfoInputs.cache
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/Lab1_BiquadraticEquation.AssemblyInfo.cs
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/Lab1_BiquadraticEquation.csproj.CoreCompileInputs.cache
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/Lab1_BiquadraticEquation.sourcelink.json
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/Lab1_BiquadraticEquation.dll
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/refint/Lab1_BiquadraticEquation.dll
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/Lab1_BiquadraticEquation.pdb
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/Lab1_BiquadraticEquation.genruntimeconfig.cache
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab1_BiquadraticEquation/obj/Debug/net8.0/ref/Lab1_BiquadraticEquation.dll

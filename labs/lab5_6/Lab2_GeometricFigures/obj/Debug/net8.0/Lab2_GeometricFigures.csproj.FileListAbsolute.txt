@@ -1,0 +1,15 @@
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/bin/Debug/net8.0/Lab2_GeometricFigures
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/bin/Debug/net8.0/Lab2_GeometricFigures.deps.json
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/bin/Debug/net8.0/Lab2_GeometricFigures.runtimeconfig.json
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/bin/Debug/net8.0/Lab2_GeometricFigures.dll
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/bin/Debug/net8.0/Lab2_GeometricFigures.pdb
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/Lab2_GeometricFigures.GeneratedMSBuildEditorConfig.editorconfig
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/Lab2_GeometricFigures.AssemblyInfoInputs.cache
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/Lab2_GeometricFigures.AssemblyInfo.cs
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/Lab2_GeometricFigures.csproj.CoreCompileInputs.cache
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/Lab2_GeometricFigures.sourcelink.json
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/Lab2_GeometricFigures.dll
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/refint/Lab2_GeometricFigures.dll
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/Lab2_GeometricFigures.pdb
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/Lab2_GeometricFigures.genruntimeconfig.cache
+/home/spiral/Kostylev_3SEM_25/labs/lab5_6/Lab2_GeometricFigures/obj/Debug/net8.0/ref/Lab2_GeometricFigures.dll
