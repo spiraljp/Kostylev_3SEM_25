@@ -1,4 +1,4 @@
-# запуск.py
+#start.py
 import unittest
 import io
 import sys

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab1_BiquadraticEquation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8cc5805b33173eb10ed1ab8a683f21cba60d7f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9478e1285bb4a0657156cb8060b371c13959fad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab1_BiquadraticEquation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab1_BiquadraticEquation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

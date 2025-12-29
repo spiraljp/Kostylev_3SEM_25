@@ -1,4 +1,4 @@
-# тесты.py
+# tests.py
 import unittest
 from code import Orchestra, Dirigent, DirigentOrchestra, OrchestralManager, create_test_data
 

@@ -1,4 +1,4 @@
-# код.py
+# code.py
 from operator import itemgetter
 from typing import List, Dict, Tuple
 
